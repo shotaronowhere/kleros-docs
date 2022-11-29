@@ -1,12 +1,12 @@
 ---
-description: Susie, a Telegram content moderation and group management bot.
+description: A Telegram moderation and group management bot.
 ---
 
-# Susie | Kleros Moderator
+# Susie
 
 ## Guide
 
-⚖️[ Susie the Telegram Kleros Moderator Bot](https://t.me/SusieTheKlerosModeratorBot?startgroup=botstart) ⚖️
+⚖️ [Susie | Kleros Moderator](https://t.me/SusieTheKlerosModeratorBot) ⚖️
 
 Welcome to the guide for using Susie the Kleros Moderator! The menu on the right lists all the features available.
 
