@@ -10,7 +10,7 @@ description: >-
 
 {% tabs %}
 {% tab title="5/ Challenge a profile" %}
-### 5/ Challenge a profile in "Pending registration" status.
+#### 5/ Challenge a profile in "Pending registration" status.
 
 If you want to help to maintain the PoH registry and earn money by spotting fake, bot, and incorrect profiles, you will need to learn how to challenge these types of profiles when they are in "Pending Registration" status.
 
@@ -50,7 +50,7 @@ You can use deepfake detection tools such as [https://deepware.ai/](https://deep
 {% endtab %}
 
 {% tab title="6/ Remove a profile" %}
-### 6/ Remove a profile from the registry
+#### 6/ Remove a profile from the registry
 
 **6.a/ Remove your own profile still in "Vouching Phase"**
 
@@ -101,7 +101,7 @@ _**Example 3: Send a removal request from a different address than the submitter
 {% endtab %}
 
 {% tab title="7/ Resubmit/Reapply a profile" %}
-### 7/ Resubmit a profile
+#### 7/ Resubmit a profile
 
 **7.a/ Resubmit a profile from a new address**
 
@@ -109,7 +109,7 @@ _**Example 3: Send a removal request from a different address than the submitter
 
 ![](<../../.gitbook/assets/image (49) (1).png>)
 
-* For this, go directly to your profile page using _`https://app.proofofhumanity.id/profile/youraddress?network=mainnet`_or click on "My Profile", and check that it is in "Removed" status. If it's not, remove it using these instructions in the [previous tab](https://kleros.gitbook.io/docs/products/proof-of-humanity/proof-humanity-tutorial-remove-and-challenge#6-remove-a-profile-from-the-registry).
+* For this, go directly to your profile page using \_`https://app.proofofhumanity.id/profile/youraddress?network=mainnet`\_or click on "My Profile", and check that it is in "Removed" status. If it's not, remove it using these instructions in the [previous tab](https://kleros.gitbook.io/docs/products/proof-of-humanity/proof-humanity-tutorial-remove-and-challenge#6-remove-a-profile-from-the-registry).
 * Then, connect your new Ethereum address to the app, and [submit your new profile](https://kleros.gitbook.io/docs/products/proof-of-humanity/proof-of-humanity-tutorial#1-register-your-profile-5-10mn) like you did the first time.
 
 **7.b/ Resubmit a profile from the same address**
@@ -124,8 +124,6 @@ _**Example 3: Send a removal request from a different address than the submitter
 **7.c/ Reapply a profile expired or soon-to-be expired**
 
 * When your profile is expired (two year after registration) or soon before expiration, you will need to reapply to the registry to prove you are still alive and in control of your Ethereum address
-
-
 {% endtab %}
 
 {% tab title="8/ Reapply a profile" %}
@@ -135,7 +133,7 @@ Reapplying is a proof that you are still alive and want to continue your registr
 
 ![](https://lh3.googleusercontent.com/o\_SG\_QHoRYcPuHVe9WreYL\_mJdj\_T6C2nH4nkkJRvluKNlnD29qzoHJ8YpU7PjRtRgZx\_lk3MRFxJ44Oe043RRgft7JZ0MQcD0QUGhqt24i3ffqgRGlSBO8lrpWYK2cX4QS4mX4X)
 
-* Fill out the form (like in your initial registration) where you’ll be redirected to, but this time the display name is prefilled. Be sure to follow all guidelines&#x20;
+* Fill out the form (like in your initial registration) where you’ll be redirected to, but this time the display name is prefilled. Be sure to follow all guidelines
 
 ![](https://lh4.googleusercontent.com/P3nBXoGVZDVrkazF7PJc8MS3xEb2v-DIEYHR4wnyDme4U5yvEvk0XjsG14UG24YOYLLN1uxFgnaGz9vJfbjtfRElGtOHoQ9qAin33mMno6gtt6A6iQtRYWHVl7UwJypOmvegrAl7)
 

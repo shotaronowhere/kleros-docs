@@ -12,13 +12,13 @@ description: >-
 
 {% tabs %}
 {% tab title="1/ Register your profile" %}
-### 1/ Register your profile (5-10mn)
+#### 1/ Register your profile (5-10mn)
 
-#### 1.a/ Go to the [Proof of Humanity](https://app.proofofhumanity.id/) app
+**1.a/ Go to the** [**Proof of Humanity**](https://app.proofofhumanity.id/) **app**
 
 * You will see the homepage of the app with the recent profiles registered in PoH.
 
-#### 1.b/ Connect your Ethereum / Web3 wallet
+**1.b/ Connect your Ethereum / Web3 wallet**
 
 * Click on the "Connect" button on the top right
 
@@ -84,7 +84,7 @@ Don't forget to subscribe to Profile Update Notifications (2nd tab at the top of
 {% endtab %}
 
 {% tab title="2/ Subscribe to Notif." %}
-### 2/ Subscribe to Profile Update Notifications (1mn)
+#### 2/ Subscribe to Profile Update Notifications (1mn)
 
 In order to be notified of your profile progress in the validation process, you might want to subscribe to email notifications.
 
@@ -99,15 +99,15 @@ In order to be notified of your profile progress in the validation process, you 
 * Once you click on "Save", your wallet will ask you to sign a message to confirm (no fee).
 * Once you have confirmed, it is done: you will now receive email updates when your profile changes status or gets challenged.
 
-****
+***
 
 **Notifications through EPNS**
 
-In order to be notified of your profile progress in the validation process, you can also  subscribe to email notifications through [Ethereum Push Notification Service (EPNS)](https://app.epns.io/). Check this [thread](https://twitter.com/epnsproject/status/1501611224517480451?s=21) for EPNS notification steps.
+In order to be notified of your profile progress in the validation process, you can also subscribe to email notifications through [Ethereum Push Notification Service (EPNS)](https://app.epns.io/). Check this [thread](https://twitter.com/epnsproject/status/1501611224517480451?s=21) for EPNS notification steps.
 {% endtab %}
 
 {% tab title="3/ Profile Validation Process" %}
-### 3/ Watch your profile go through the validation process and finalize registration (**≈** 3-5 days)
+#### 3/ Watch your profile go through the validation process and finalize registration (**≈** 3-5 days)
 
 Your submitted profile will start in "**Vouching Phase**" status and will go through a "**Pending registration**" phase before reaching the "**Registered**" status which means you are a verified human.
 
@@ -115,7 +115,7 @@ You can check the current status of your profile by clicking on "My profile" in 
 
 ![](<../../.gitbook/assets/image (42).png>)
 
-#### 3.a/ How to go from "Vouching Phase" to "Pending registration" status?
+**3.a/ How to go from "Vouching Phase" to "Pending registration" status?**
 
 * You need to find one person who is in "Registered" status and that knows you in real-life (or that can prove that you really are the person your profile describes) and ask that person to vouch for you.
 
@@ -153,7 +153,7 @@ Vouching for someone is a benevolent act to help them get into the registry. Cur
 **Why is my profile staying in "Vouching Phase"?** If you wonder why you still are not in "Pending Registration" status even though you have your deposit and vouches, it probably means the person that vouched for you has vouched for several persons at the same time. His vouches are processed sequentially and you will need to wait for the persons he vouched for before you to be validated (3.5 days for each) before it is your turn for his vouch to be processed.
 {% endhint %}
 
-#### 3.b/ How to go from "Pending Registration" to "Registered" status?
+**3.b/ How to go from "Pending Registration" to "Registered" status?**
 
 * Once your Profile is in "Pending Registration" status, it will go through a challenge period of 3.5 days. That means that during 3.5 days people will check your profile to verify if you are a fake or if you provided incorrect information and, if yes, will try to challenge your registration to win part of your deposit.
 * You can check how long you have left in this period in the bottom left of your profile.
@@ -183,7 +183,7 @@ If the jury rules in favor of the challenger, your profile goes to "Removed" sta
 {% endtab %}
 
 {% tab title="4/ Vouch for a profile" %}
-### 4/ Vouch for another profile (2mn)
+#### 4/ Vouch for another profile (2mn)
 
 You can only vouch for another profile if you are connected to the app and your profile is in "Registered" status.
 

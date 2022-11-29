@@ -34,6 +34,19 @@
     * [Reviewing translations](products/linguo/step-by-step-tutorial/reviewing-translations.md)
   * [F.A.Q](products/linguo/f.a.q.md)
   * [High-level Overview](products/linguo/high-level-overview.md)
+* [Moderate](products/moderate/README.md)
+  * [Susie | Kleros Moderator](products/moderate/susie-or-kleros-moderator/README.md)
+    * [Getting Started](products/moderate/susie-or-kleros-moderator/getting-started/README.md)
+      * [Add Susie](products/moderate/susie-or-kleros-moderator/getting-started/add-susie.md)
+      * [Start Susie](products/moderate/susie-or-kleros-moderator/getting-started/start-susie.md)
+    * [Basics](products/moderate/susie-or-kleros-moderator/basics/README.md)
+      * [Welcome](products/moderate/susie-or-kleros-moderator/basics/welcome.md)
+      * [Language](products/moderate/susie-or-kleros-moderator/basics/language.md)
+      * [Notifications](products/moderate/susie-or-kleros-moderator/basics/notifications.md)
+    * [Rules](products/moderate/susie-or-kleros-moderator/rules.md)
+    * [Reports](products/moderate/susie-or-kleros-moderator/reports.md)
+    * [Evidence](products/moderate/susie-or-kleros-moderator/evidence.md)
+    * [Federations](products/moderate/susie-or-kleros-moderator/federations.md)
 
 ## INTEGRATIONS
 

@@ -1,0 +1,17 @@
+---
+description: Susie will help you walk through the start process with the command /start
+---
+
+# Start Susie
+
+## /start
+
+After Susie is added to a group, there is one more step to unlock her full potential. Remember, Susie can't help moderate your group until she is an Admin! Without admin rights, she won't be very useful. Thankfully, promoting Susie to an Admin role is simple,
+
+1. Click the banner at the top of your group to view your group's information
+2. Click the pencil icon to edit your group's settings
+3. Click “Administrators”, and then “Add Administrator”
+4. Select Susie from the list of users
+5. Grant her all admin rights as shown, and click the checkmark icon
+
+Congratulations, you've now unlocked Susie's full potential!
