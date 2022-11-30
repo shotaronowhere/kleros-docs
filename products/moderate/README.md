@@ -1,7 +1,5 @@
 ---
-description: >-
-  Credibly neutral social media content moderation in collaboration with
-  Reality.eth
+description: Crowdsourced social media content moderation with Reality.eth x Kleros
 ---
 
 # Moderate

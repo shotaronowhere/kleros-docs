@@ -1,10 +1,12 @@
 ---
-description: Susie will help you walk through the start process with the command /start
+description: Susie will help you walk through the start process with /start
 ---
 
 # Start Susie
 
 ## /start
+
+If you added Susie as an admin to your group by following a [link](https://t.me/KlerosModeratorBot?start=botstart), then she automatically starts.&#x20;
 
 After Susie is added to a group, there is one more step to unlock her full potential. Remember, Susie can't help moderate your group until she is an Admin! Without admin rights, she won't be very useful. Thankfully, promoting Susie to an Admin role is simple,
 
@@ -14,4 +16,10 @@ After Susie is added to a group, there is one more step to unlock her full poten
 4. Select Susie from the list of users
 5. Grant her all admin rights as shown, and click the checkmark icon
 
+Finally make sure to use the /start comand to begin Susie's community moderation.
+
 Congratulations, you've now unlocked Susie's full potential!
+
+#### Admin Command
+
+/start: Begins Susie's community moderation
