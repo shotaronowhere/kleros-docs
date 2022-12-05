@@ -6,9 +6,9 @@ description: Susie will help you walk through the start process with /start
 
 ## /start
 
-If you added Susie as an admin to your group by following a [link](https://t.me/KlerosModeratorBot?start=botstart), then she automatically starts.&#x20;
+If you added Susie as an admin to your group by following a [link](https://t.me/KlerosModeratorBot?start=botstart), then she automatically starts and you can skip the rest of the following steps.&#x20;
 
-After Susie is added to a group, there is one more step to unlock her full potential. Remember, Susie can't help moderate your group until she is an Admin! Without admin rights, she won't be very useful. Thankfully, promoting Susie to an Admin role is simple,
+If you manually added Susie to your group, there is one more step to unlock her full potential. Remember, Susie can't help moderate your group until she is an Admin! Without admin rights, she won't be very useful. Thankfully, promoting Susie to an Admin role is simple,
 
 1. Click the banner at the top of your group to view your group's information
 2. Click the pencil icon to edit your group's settings
